@@ -1,0 +1,11 @@
+C:\Users\Vishakha Patel\source\repos\CompanyDe\bin\Debug\CompanyDe.exe.config
+C:\Users\Vishakha Patel\source\repos\CompanyDe\bin\Debug\CompanyDe.exe
+C:\Users\Vishakha Patel\source\repos\CompanyDe\bin\Debug\CompanyDe.pdb
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.csproj.AssemblyReference.cache
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.Form1.resources
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.Properties.Resources.resources
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.csproj.GenerateResource.cache
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.csproj.CoreCompileInputs.cache
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.exe
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.pdb
