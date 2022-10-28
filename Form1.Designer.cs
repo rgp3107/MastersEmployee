@@ -100,12 +100,14 @@
             this.projectAssignmentToolStripMenuItem.Name = "projectAssignmentToolStripMenuItem";
             this.projectAssignmentToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.projectAssignmentToolStripMenuItem.Text = "Project Assignment";
+            this.projectAssignmentToolStripMenuItem.Click += new System.EventHandler(this.projectAssignmentToolStripMenuItem_Click);
             // 
             // timeEntryToolStripMenuItem
             // 
             this.timeEntryToolStripMenuItem.Name = "timeEntryToolStripMenuItem";
             this.timeEntryToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.timeEntryToolStripMenuItem.Text = "Time Entry";
+            this.timeEntryToolStripMenuItem.Click += new System.EventHandler(this.timeEntryToolStripMenuItem_Click);
             // 
             // Form1
             // 

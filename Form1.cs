@@ -21,5 +21,19 @@ namespace CompanyDe
         {
 
         }
+
+        private void projectAssignmentToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ProjectAssignment project = new ProjectAssignment();
+
+            project.ShowDialog();
+        }
+
+        private void timeEntryToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            TimeEntry time = new TimeEntry();
+            time.ShowDialog();
+
+        }
     }
 }
