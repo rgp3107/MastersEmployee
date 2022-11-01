@@ -9,3 +9,7 @@ C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.csproj.Genera
 C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.csproj.CoreCompileInputs.cache
 C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.exe
 C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.pdb
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.ProjectAssignment.resources
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.TimeEntry.resources
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.Login.resources
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.Department.resources

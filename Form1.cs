@@ -21,19 +21,38 @@ namespace CompanyDe
         {
 
         }
+        public void showFrm(Form frm)
+        {
+            this.IsMdiContainer = true;
+            frm.MdiParent = this;
+            frm.Show();
+        }
 
         private void projectAssignmentToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            ProjectAssignment project = new ProjectAssignment();
 
-            project.ShowDialog();
+            showFrm(new ProjectAssignment());
         }
 
         private void timeEntryToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            TimeEntry time = new TimeEntry();
-            time.ShowDialog();
+            showFrm(new TimeEntry());
+        }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            showFrm(new Login());
+        }
+
+        private void employeeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            showFrm(new EmployeeDetails());
+           
+        }
+
+        private void departmentToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            showFrm(new Department());
         }
     }
 }

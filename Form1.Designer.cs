@@ -67,6 +67,7 @@
             this.departmentToolStripMenuItem.Name = "departmentToolStripMenuItem";
             this.departmentToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.departmentToolStripMenuItem.Text = "Department";
+            this.departmentToolStripMenuItem.Click += new System.EventHandler(this.departmentToolStripMenuItem_Click);
             // 
             // designationToolStripMenuItem
             // 
@@ -85,6 +86,7 @@
             this.employeeToolStripMenuItem.Name = "employeeToolStripMenuItem";
             this.employeeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.employeeToolStripMenuItem.Text = "Employee";
+            this.employeeToolStripMenuItem.Click += new System.EventHandler(this.employeeToolStripMenuItem_Click);
             // 
             // detailsToolStripMenuItem
             // 
@@ -98,14 +100,14 @@
             // projectAssignmentToolStripMenuItem
             // 
             this.projectAssignmentToolStripMenuItem.Name = "projectAssignmentToolStripMenuItem";
-            this.projectAssignmentToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.projectAssignmentToolStripMenuItem.Size = new System.Drawing.Size(177, 22);
             this.projectAssignmentToolStripMenuItem.Text = "Project Assignment";
             this.projectAssignmentToolStripMenuItem.Click += new System.EventHandler(this.projectAssignmentToolStripMenuItem_Click);
             // 
             // timeEntryToolStripMenuItem
             // 
             this.timeEntryToolStripMenuItem.Name = "timeEntryToolStripMenuItem";
-            this.timeEntryToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.timeEntryToolStripMenuItem.Size = new System.Drawing.Size(177, 22);
             this.timeEntryToolStripMenuItem.Text = "Time Entry";
             this.timeEntryToolStripMenuItem.Click += new System.EventHandler(this.timeEntryToolStripMenuItem_Click);
             // 
