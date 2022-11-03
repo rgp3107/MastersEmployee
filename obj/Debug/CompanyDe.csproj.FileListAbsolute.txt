@@ -13,3 +13,6 @@ C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.ProjectAssign
 C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.TimeEntry.resources
 C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.Login.resources
 C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.Department.resources
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.Designation.resources
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.ProjectDetails.resources
+C:\Users\Vishakha Patel\source\repos\CompanyDe\obj\Debug\CompanyDe.EmployeeDetails.resources

@@ -65,26 +65,28 @@
             // departmentToolStripMenuItem
             // 
             this.departmentToolStripMenuItem.Name = "departmentToolStripMenuItem";
-            this.departmentToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.departmentToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.departmentToolStripMenuItem.Text = "Department";
             this.departmentToolStripMenuItem.Click += new System.EventHandler(this.departmentToolStripMenuItem_Click);
             // 
             // designationToolStripMenuItem
             // 
             this.designationToolStripMenuItem.Name = "designationToolStripMenuItem";
-            this.designationToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.designationToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.designationToolStripMenuItem.Text = "Designation";
+            this.designationToolStripMenuItem.Click += new System.EventHandler(this.designationToolStripMenuItem_Click);
             // 
             // projectsToolStripMenuItem
             // 
             this.projectsToolStripMenuItem.Name = "projectsToolStripMenuItem";
-            this.projectsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.projectsToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.projectsToolStripMenuItem.Text = "Projects";
+            this.projectsToolStripMenuItem.Click += new System.EventHandler(this.projectsToolStripMenuItem_Click);
             // 
             // employeeToolStripMenuItem
             // 
             this.employeeToolStripMenuItem.Name = "employeeToolStripMenuItem";
-            this.employeeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.employeeToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.employeeToolStripMenuItem.Text = "Employee";
             this.employeeToolStripMenuItem.Click += new System.EventHandler(this.employeeToolStripMenuItem_Click);
             // 
@@ -121,7 +123,6 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

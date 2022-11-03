@@ -14,13 +14,12 @@ namespace CompanyDe
 {
     public partial class TimeEntry : Form
     {
-        SqlConnection con;
-        string connectionString = "Data Source=RGP\\MSSQLSERVER01;Initial Catalog=CompanyDe;Integrated Security=True ";
+       
         DataTable dt;
         public TimeEntry()
         {
             InitializeComponent();
-            con = new SqlConnection(connectionString);
+           
 
             dt = new DataTable();
             dt.Columns.Add("Project_Name",typeof(string));
